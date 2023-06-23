@@ -60,4 +60,7 @@ public:
 		}
 	}
 
+	void display() {
+		int FRONT posisition = FRONT;
+	}
 };
